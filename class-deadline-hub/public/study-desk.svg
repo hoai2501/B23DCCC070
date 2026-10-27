@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="680" viewBox="0 0 760 680" fill="none">
+  <rect width="760" height="680" rx="36" fill="#F2EFE8"/>
+  <circle cx="610" cy="117" r="151" fill="#E5E7DA"/>
+  <rect x="76" y="106" width="382" height="402" rx="16" fill="#FFFDF8" transform="rotate(-5 76 106)"/>
+  <path d="M149 215H395M143 265H365M138 314H308" stroke="#DEDCCF" stroke-width="8" stroke-linecap="round"/>
+  <rect x="162" y="365" width="132" height="68" rx="12" fill="#E7EFE4"/>
+  <path d="M185 398L199 412L229 380" stroke="#648269" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="367" y="177" width="280" height="353" rx="24" fill="#203B31"/>
+  <rect x="389" y="199" width="236" height="306" rx="14" fill="#F9F6EE"/>
+  <rect x="410" y="220" width="194" height="56" rx="10" fill="#DCE9D9"/>
+  <circle cx="434" cy="248" r="10" fill="#547B5A"/>
+  <path d="M455 244H583M455 257H540" stroke="#789276" stroke-width="6" stroke-linecap="round"/>
+  <rect x="410" y="294" width="194" height="70" rx="10" fill="#FFF"/>
+  <circle cx="434" cy="329" r="10" fill="#E8B35D"/>
+  <path d="M455 324H578M455 338H537" stroke="#D8D5C9" stroke-width="6" stroke-linecap="round"/>
+  <rect x="410" y="382" width="194" height="70" rx="10" fill="#FFF"/>
+  <circle cx="434" cy="417" r="10" fill="#A593C6"/>
+  <path d="M455 412H578M455 426H537" stroke="#D8D5C9" stroke-width="6" stroke-linecap="round"/>
+  <path d="M339 522L411 521L447 602H304L339 522Z" fill="#BA8F67"/>
+  <rect x="254" y="586" width="231" height="23" rx="11.5" fill="#806349"/>
+  <rect x="532" y="89" width="99" height="117" rx="12" fill="#D7A879"/>
+  <path d="M581 132C556 99 543 130 558 148C568 161 581 170 581 170C581 170 595 159 606 145C620 127 601 99 581 132Z" fill="#627D5E"/>
+  <path d="M581 166V194" stroke="#627D5E" stroke-width="5" stroke-linecap="round"/>
+  <path d="M88 568C118 525 165 524 192 568" stroke="#D3AE8A" stroke-width="14" stroke-linecap="round"/>
+  <circle cx="107" cy="524" r="14" fill="#D3AE8A"/>
+  <circle cx="175" cy="522" r="14" fill="#D3AE8A"/>
+  <path d="M683 380L695 408L725 412L703 432L708 462L683 448L656 462L662 432L640 412L670 408L683 380Z" fill="#D9A56F"/>
+</svg>

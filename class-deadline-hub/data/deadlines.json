@@ -1,0 +1,123 @@
+[
+  {
+    "title": "Nộp app",
+    "subject": "Phân tích thiết kế hệ thống",
+    "subjectSlug": "phan-tich-thiet-ke",
+    "description": "Học tốt nhe",
+    "dueDate": "2026-10-27T07:42:00.000Z",
+    "type": "bài tập",
+    "priority": "medium",
+    "id": "1793086943646",
+    "createdAt": "2026-10-27T07:42:23.646Z"
+  },
+  {
+    "id": "1",
+    "title": "Bài tập lớn — Phân tích thiết kế hệ thống",
+    "subject": "Phân tích thiết kế hệ thống",
+    "subjectSlug": "phan-tich-thiet-ke",
+    "description": "Hoàn thành tài liệu đặc tả yêu cầu, sơ đồ Use Case và mô hình lớp cho đề tài nhóm. Nộp một file PDF đại diện nhóm.",
+    "dueDate": "2026-11-06T23:59:00+07:00",
+    "type": "Bài tập lớn",
+    "priority": "high",
+    "createdAt": "2026-10-19T09:00:00+07:00"
+  },
+  {
+    "id": "3",
+    "title": "Nộp lab 05 — Lập trình Web",
+    "subject": "Lập trình Web",
+    "subjectSlug": "lap-trinh-web",
+    "description": "Xây dựng giao diện responsive và triển khai các route động theo yêu cầu buổi thực hành.",
+    "dueDate": "2026-11-02T23:59:00+07:00",
+    "type": "Thực hành",
+    "priority": "medium",
+    "createdAt": "2026-10-20T09:00:00+07:00"
+  },
+  {
+    "id": "4",
+    "title": "Đồ án giữa kỳ — Cơ sở dữ liệu",
+    "subject": "Cơ sở dữ liệu",
+    "subjectSlug": "co-so-du-lieu",
+    "description": "Thiết kế lược đồ quan hệ, chuẩn hóa dữ liệu đến 3NF và nộp file SQL kèm báo cáo.",
+    "dueDate": "2026-11-10T23:59:00+07:00",
+    "type": "Đồ án",
+    "priority": "high",
+    "createdAt": "2026-10-18T10:00:00+07:00"
+  },
+  {
+    "id": "5",
+    "title": "Bài tập tuần 7 — Mạng máy tính",
+    "subject": "Mạng máy tính",
+    "subjectSlug": "mang-may-tinh",
+    "description": "Giải bài tập về subnetting và cấu hình định tuyến tĩnh theo sơ đồ đã cho.",
+    "dueDate": "2026-11-04T17:00:00+07:00",
+    "type": "Bài tập",
+    "priority": "low",
+    "createdAt": "2026-10-21T11:00:00+07:00"
+  },
+  {
+    "id": "6",
+    "title": "Kiểm tra giữa kỳ — Cơ sở dữ liệu",
+    "subject": "Cơ sở dữ liệu",
+    "subjectSlug": "co-so-du-lieu",
+    "description": "Kiểm tra trực tiếp trên lớp. Nội dung từ chương 1 đến chương 5.",
+    "dueDate": "2026-11-13T09:00:00+07:00",
+    "type": "Kiểm tra",
+    "priority": "high",
+    "createdAt": "2026-10-18T10:30:00+07:00"
+  },
+  {
+    "id": "7",
+    "title": "Bài tập nhóm — Lập trình Web",
+    "subject": "Lập trình Web",
+    "subjectSlug": "lap-trinh-web",
+    "description": "Phân công vai trò và xây dựng bản prototype cho website quản lý công việc nhóm.",
+    "dueDate": "2026-11-08T23:59:00+07:00",
+    "type": "Bài tập lớn",
+    "priority": "medium",
+    "createdAt": "2026-10-22T08:00:00+07:00"
+  },
+  {
+    "id": "9",
+    "title": "Lab 06 — Truy vấn nâng cao",
+    "subject": "Cơ sở dữ liệu",
+    "subjectSlug": "co-so-du-lieu",
+    "description": "Thực hành JOIN, subquery và các hàm tổng hợp trên bộ dữ liệu bán hàng.",
+    "dueDate": "2026-11-05T23:59:00+07:00",
+    "type": "Thực hành",
+    "priority": "medium",
+    "createdAt": "2026-10-22T09:30:00+07:00"
+  },
+  {
+    "id": "10",
+    "title": "Báo cáo thực hành — Mạng máy tính",
+    "subject": "Mạng máy tính",
+    "subjectSlug": "mang-may-tinh",
+    "description": "Nộp báo cáo cấu hình VLAN và kiểm tra kết nối giữa các mạng con.",
+    "dueDate": "2026-11-12T23:59:00+07:00",
+    "type": "Báo cáo",
+    "priority": "low",
+    "createdAt": "2026-10-23T09:30:00+07:00"
+  },
+  {
+    "id": "11",
+    "title": "Bài tập Server Components — Lập trình Web",
+    "subject": "Lập trình Web",
+    "subjectSlug": "lap-trinh-web",
+    "description": "Hoàn thiện ứng dụng Next.js sử dụng App Router, Server Components và metadata động.",
+    "dueDate": "2026-11-15T23:59:00+07:00",
+    "type": "Bài tập",
+    "priority": "high",
+    "createdAt": "2026-10-23T10:00:00+07:00"
+  },
+  {
+    "id": "12",
+    "title": "Thuyết trình đề tài nhóm — Phân tích thiết kế",
+    "subject": "Phân tích thiết kế hệ thống",
+    "subjectSlug": "phan-tich-thiet-ke",
+    "description": "Chuẩn bị slide và demo phân tích nghiệp vụ theo đề tài nhóm đã đăng ký.",
+    "dueDate": "2026-11-18T13:30:00+07:00",
+    "type": "Thuyết trình",
+    "priority": "medium",
+    "createdAt": "2026-10-23T10:30:00+07:00"
+  }
+]
